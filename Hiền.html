@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile - Dieu Hien</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+        }
+        .card {
+            background: white;
+            padding: 2rem;
+            border-radius: 20px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            width: 350px;
+            text-align: center;
+        }
+        h1 { color: #d81b60; margin-bottom: 0.5rem; }
+        .info { text-align: left; margin: 1.5rem 0; }
+        .info p { margin: 8px 0; color: #555; }
+        .highlight { font-weight: bold; color: #ad1457; }
+        .signature { font-style: italic; color: #888; font-size: 0.9rem; margin-top: 15px; }
+        .share-section {
+            margin-top: 20px;
+            padding-top: 15px;
+            border-top: 1px dashed #f06292;
+        }
+        .btn-share {
+            background-color: #f06292;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        .btn-share:hover { background-color: #d81b60; }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h1>Dieu Hien 🌸</h1>
+    <div class="info">
+        <p><strong>Ho ten:</strong> Nguyen Ngoc Dieu Hien</p>
+        <p><strong>Ngay sinh:</strong> 08/01/2008</p>
+        <p><strong>So thich:</strong> Đoc truyen, nghe nhac,...</p>
+        <p><strong>Uoc mo:</strong> <span class="highlight">Phu ba 💰</span></p>
+        <p><strong>Caption:</strong> "CKPGT"</p>
+        <p><strong>Tinh trang:</strong> <span style="color: red;">Đoc than (E) 🚩</span></p>
+    </div>
+    
+    <p class="signature">#thieugayhonbay1nua</p>
+
+    <div class="share-section">
+        <button class="btn-share" onclick="copyLink()">Copy link đe chia se</button>
+    </div>
+</div>
+
+<script>
+    function copyLink() {
+        const url = window.location.href;
+        navigator.clipboard.writeText(url).then(() => {
+            alert("Đa copy link trang web! Gui cho ban be ngay nhe.");
+        });
+    }
+</script>
+
+</body>
+</html>
