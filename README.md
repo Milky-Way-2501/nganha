@@ -1,3 +1,4 @@
+<head>
 <title>Blog nho nhỏ của Hà</title>
     <style>
         :root { --primary-color: #2563eb; --dark-bg: #1e293b; }
@@ -15,6 +16,7 @@
         .item { padding: 15px; border: 1px solid #e2e8f0; border-radius: 8px; }
         footer { text-align: center; padding: 20px; background: #334155; color: white; margin-top: 50px; }
     </style>
+</head>
 <body>
     <header>
         <nav>
