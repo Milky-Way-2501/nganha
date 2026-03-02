@@ -45,7 +45,10 @@
         <div id="skills" class="section">
             <h2>Sở thích</h2>
             <div class="grid">
-                <div class="item"><strong>Nhạc POP:</strong> Khoảng thời gian trước tui khá thích BTS, Talor Switch,... nhưng giờ tui nghe nhạc lộn xộn lắm.</div>
+                <div class="item"><strong>Nhạc POP:</strong> Khoảng thời gian trước tui khá thích BTS, Talor Switch,... nhưng giờ tui nghe nhạc lộn xộn lắm.
+                    <p>Tui khá thích bài này</p>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/kn-YYEppN_w?si=ypdEYHcCmHR5K9Uk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
                 <div class="item"><strong>Game:</strong> Thay vì tự mình chơi thì tui thích xem người khác chơi hơn (do tui gà). Gần đây tui khá thích nhóm T1 Liên Minh Huyền Thoại.</div>
                 <div class="item"><strong>Đọc sách:</strong> Tui không có loại sách nào thật sự thích hết nhưng tui đọc khá nhiều tiểu thuyết và báo nên tui nghĩ mình chỉ thích đọc chữ thôi (nhưng tui cũng là một người đọc chọn lọc đó nha).</div>
                 <div class="item"><strong>Cắm hoa:</strong> Đây thật sự chỉ là sở thích thời vụ thôi. Tui cũng không giỏi mấy cái cần khéo tay nên chỉ cắm thôi chứ tui không cho xem đâu.</div>
