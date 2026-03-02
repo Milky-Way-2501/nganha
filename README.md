@@ -4,7 +4,7 @@
         :root { --primary-color: #2563eb; --dark-bg: #1e293b; }
         body {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;margin: 0;line-height: 1.6;color: #213A58;}
         .card img {width: 100%; height: 50px;object-fit: cover; }
-        header { background: #36436f; color: white; padding: 1rem 0; position: fixed; top: 0; width: 100%; z-index: 20;}
+        header { background: #36436f; color: white; padding: 1rem 0; position: fixed; top: 0; width: 100%; z-index: 1000;}
         nav { display: flex; justify-content: space-around; align-items: center; }
         nav a { color: white; text-decoration: none; margin: 0 15px; font-weight: 500; }
         .hero { height: 60vh; display: flex; flex-direction: column; justify-content: center; align-items: center; background: #a7d0d6; color: #34675c ;text-align: center; }
