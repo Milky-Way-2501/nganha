@@ -28,6 +28,7 @@
             <div>
                 <a href="#about">Giới thiệu</a>
                 <a href="#skills">Sở thích</a>
+                <a href="#gt">Một số giới thiệu của tui</a>
                 <a href="#contact">Liên hệ</a>
             </div>
         </nav>
@@ -45,16 +46,19 @@
         <div id="skills" class="section">
             <h2>Sở thích</h2>
             <div class="grid">
-                <div class="item"><strong>Nhạc POP:</strong> Khoảng thời gian trước tui khá thích BTS, Talor Switch,... nhưng giờ tui nghe nhạc lộn xộn lắm.
-                    <p>Tui khá thích bài này</p>
-                    <iframe width="50" height="30" src="https://www.youtube.com/embed/kn-YYEppN_w?si=ypdEYHcCmHR5K9Uk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                </div>
+                <div class="item"><strong>Nhạc POP:</strong> Khoảng thời gian trước tui khá thích BTS, Talor Switch,... nhưng giờ tui nghe nhạc lộn xộn lắm.</div>
                 <div class="item"><strong>Game:</strong> Thay vì tự mình chơi thì tui thích xem người khác chơi hơn (do tui gà). Gần đây tui khá thích nhóm T1 Liên Minh Huyền Thoại.</div>
                 <div class="item"><strong>Đọc sách:</strong> Tui không có loại sách nào thật sự thích hết nhưng tui đọc khá nhiều tiểu thuyết và báo nên tui nghĩ mình chỉ thích đọc chữ thôi (nhưng tui cũng là một người đọc chọn lọc đó nha).</div>
                 <div class="item"><strong>Cắm hoa:</strong> Đây thật sự chỉ là sở thích thời vụ thôi. Tui cũng không giỏi mấy cái cần khéo tay nên chỉ cắm thôi chứ tui không cho xem đâu.</div>
                 <div class="item"><strong></strong> Để đây trước đi có gì tui sẽ update cho mọi người xem nha.</div>
             </div>
         </div>
+        <div id="gt" class="section">
+            <h2>Một số giới thiệu của tui</h2>
+            <div> <iframe width="560" height="315" src="https://www.youtube.com/embed/kn-YYEppN_w?si=2iGCPMCMkHr4vVxS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+            <div><iframe width="560" height="315" src="https://www.youtube.com/embed/LGdRymaxx78?si=axcUpaKO7_T6OEvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+            <div><iframe width="560" height="315" src="https://www.youtube.com/embed/d3hXxAAuP2U?si=6gKGh6EYtMWGor-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+            <div><iframe width="550" height="315" src="https://www.youtube.com/embed/QDhsc3D2YZA?si=TXDM4HGHHsnWStPR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
         <div id="contact" class="section">
             <h2>Liên hệ với tôi</h2>
             <p>📧 Email: nganhatranpham2501n@gmail.com</p>
